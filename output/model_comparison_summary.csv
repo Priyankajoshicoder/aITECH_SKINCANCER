@@ -1,0 +1,7 @@
+Metric,Baseline Model,Combined Model,Improvement
+Overall Accuracy,0.15789473056793213,0.21052631735801697,0.05263158679008484
+Loss,3.5290772914886475,2.0735785961151123,1.4554986953735352
+basal cell carcinoma Accuracy,0.0,0.0,0.0
+dermatofibroma Accuracy,0.3333333333333333,0.3333333333333333,0.0
+melanoma Accuracy,0.25,0.375,0.125
+squamous cell carcinoma Accuracy,0.0,0.0,0.0
